@@ -33,13 +33,6 @@
 - **Universal Compatibility:** Works as a standard Bluetooth HID mouse on Windows, macOS, Linux, and Android.
 - **Gaming Optimized:** Tuned sensitivity and deadzones for precise aiming and shooting in fast-paced mobile games.
 
-## 📦 Repository Structure
-
-- `AirMouseGloves.ino` - The main Arduino code for the ESP32.
-- `README.md` - Documentation and instructions.
-- `/library/ESP32-BLE-Mouse-master-(Modified by Rahat0764).zip` - A modified version of the standard BLE Mouse library (fixes string and BLE descriptor issues).
-- `/res/demo_video.mp4` - Video demonstration of the gloves in action.
-
 ## 🔌 Hardware Requirements
 
 To build this project, you will need the following components:
