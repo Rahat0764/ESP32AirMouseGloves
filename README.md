@@ -14,7 +14,15 @@
 
 ## 🎥 Demo Video
 
-https://github.com/Rahat0764/ESP32AirMouseGloves/assets/res/demo_video.mp4
+<p align="center">
+  <a href="https://youtube.com/shorts/1UzFhFmE274">
+    <img src="https://img.youtube.com/vi/1UzFhFmE274/maxresdefault.jpg" alt="ESP32 Air Mouse Gloves Demo" width="800">
+  </a>
+</p>
+
+<p align="center">
+  <b>🎥 Watch the Project Demo</b>
+</p>
 
 ## 🛠 Features
 
