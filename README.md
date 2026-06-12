@@ -77,7 +77,7 @@ Connect all the following to a single common wire, and connect the end of that w
 ### Step 1: Install the Modified Library
 The standard BLE Mouse library has known issues with certain string formats on modern ESP32 board managers. 
 1. Go to the [Releases section](https://github.com/Rahat0764/ESP32AirMouseGloves/releases) of this repository.
-2. Download `ESP32-BLE-Mouse-master-(Modified by Rahat0764).zip`.
+2. Download `ESP32-BLE-Mouse-master-Modified-by-Rahat0764.zip`.
 3. In your Arduino IDE, go to **Sketch > Include Library > Add .ZIP Library...** and select the downloaded file.
 
 ### Step 2: Upload the Code
@@ -90,13 +90,13 @@ The standard BLE Mouse library has known issues with certain string formats on m
 
 ### Desktop / PC
 1. Turn on the glove using the main switch.
-2. Open Bluetooth settings on your PC and pair with **"Cyber Glove"**.
+2. Open Bluetooth settings on your PC and pair with **"ESP32 Air Mouse"**.
 3. Hold your hand steady and press the **Calibration Button for 3 seconds**. The cursor will snap to the center of your screen.
 4. Move your hand to move the cursor. Use the buttons to click.
 
 ### Mobile Gaming (e.g., PUBG on Android)
 To use this glove for FPS games on your phone, you need a Keymapper app to map the mouse clicks to on-screen buttons.
-1. Connect "Cyber Glove" via Bluetooth.
+1. Connect "ESP32 Air Mouse" via Bluetooth.
 2. Install a Keymapper app that supports Mice (e.g., **Mantis Mouse Pro** or **Panda Mouse Pro**). *Note: Mantis Gamepad Pro will not work as it only detects gamepads.*
 3. Open the Keymapper app and launch your game.
 4. Map the **Left Click** to your Fire button, and **Right Click** to your Reload (or Scope) button.
