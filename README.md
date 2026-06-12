@@ -1,11 +1,16 @@
-# ESP32 Air Mouse Gloves
+<h1 align="center">ESP32 Air Mouse Gloves</h1>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/Platform-ESP32-brightgreen.svg)]()
-[![Sensor](https://img.shields.io/badge/Sensor-MPU6050-orange.svg)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RahatAhmedX-0077B5?logo=linkedin)](https://www.linkedin.com/in/RahatAhmedX)
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-ESP32-brightgreen.svg" alt="ESP32">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue.svg" alt="C++">
+  <img src="https://img.shields.io/badge/Framework-Arduino-00979D.svg" alt="Arduino">
+  <img src="https://img.shields.io/badge/Sensor-MPU6050-orange.svg" alt="MPU6050">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT">
+</p>
 
-A high-performance, wearable Bluetooth Air Mouse built with an ESP32 and MPU6050 gyroscope/accelerometer. Designed for seamless cursor control using hand gestures, it features click buttons, an absolute-center calibration system, and is optimized for both desktop computing and mobile gaming (like PUBG).
+<p align="center">
+  A high-performance, wearable Bluetooth Air Mouse built with an ESP32 and MPU6050 gyroscope/accelerometer. Designed for seamless cursor control using hand gestures, it features click buttons, an absolute-center calibration system, and is optimized for both computer and mobile devices.
+</p>
 
 ## 🎥 Demo Video
 
